@@ -32,6 +32,10 @@ The dataset used is the **Hymenoptera Data** provided by the PyTorch official tu
 ## 📊 Results
 * **Best Validation Accuracy:** **93.46%** (Achieved at Epoch 3).
 * **Observations:** The model converges very quickly. Overfitting may occur if trained for too many epochs without a scheduler.
+<img width="115" height="344" alt="image" src="https://github.com/user-attachments/assets/baef5810-86f5-4b46-8b0f-e7c3300d423f" />
+
+## 🧪 Real-world Inference Demo
+We tested the model with an image downloaded from the internet (not included in the training or validation sets) to verify its generalization capability.
 
 <img width="278" height="229" alt="image" src="https://github.com/user-attachments/assets/86f81d51-c20a-4bf8-bcee-3e7e535c8b08" /><img width="284" height="206" alt="image" src="https://github.com/user-attachments/assets/c432f0f3-84f8-40c7-b26f-c849e5e2caf3" />
 
